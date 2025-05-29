@@ -77,4 +77,5 @@ Data Enthusiast | Business Analyst | Operations Manager
 
 ## 📄 License (Optional)
 
-MIT License or add one that fits your preference.
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute it with proper attribution.
